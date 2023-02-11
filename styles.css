@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+div {
+    margin: 20px;
+    max-width: 100%;
+}
+
+p {
+    margin-bottom: 40px;
+    padding-right: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+img {
+    margin: 20px 0;
+    max-width: 100%;
+    margin: 20px 0;
+}
+
+button {
+    background: black;
+    /* color: white; */
+    padding: 10px 30px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+button:hover {
+    background: rgb(0, 215, 179);
+}
+
+a button {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
